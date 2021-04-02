@@ -1,3 +1,6 @@
+ # Forked this Repos from NishantPuri99/TryHackMe-OWASP-Top10
+ Using that repos to help me with explanation on Try to Hack Me excecises
+
 # TryHackMe-OWASP-Top10
 
 ![Intro](Introduction_Image.png)
